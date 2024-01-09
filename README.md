@@ -19,3 +19,6 @@
 		- [Exploring Convolutions & Max Pooling](/convolutions.ipynb)
 			- Implement convolution with 3x3 filters
 			- Implement 2x2 Max Pooling Filter
+		- [Weekly Assignment](/fashion_convolution.ipynb)
+			- classify mnist dataset using CNN
+			- plus self made early stopping callback
