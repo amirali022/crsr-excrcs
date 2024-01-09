@@ -16,3 +16,6 @@
 		- [Fashion MNIST Classification Using CNN](/fashion_convolution.ipynb)
 			- classify fashion mnsit using convolution neural networks
 			- visualizing filters
+		- [Exploring Convolutions & Max Pooling](/convolutions.ipynb)
+			- Implement convolution with 3x3 filters
+			- Implement 2x2 Max Pooling Filter
