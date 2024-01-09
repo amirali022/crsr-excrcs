@@ -12,3 +12,7 @@
 		- [Weekly Assignment](/mnist_mlp.ipynb)
 			- classify mnist dataset using multi layer neural network
 			- plus self made early stopping callback
+	- enhancing vision with convolutional neural networks
+		- [Fashion MNIST Classification Using CNN](/fashion_convolution.ipynb)
+			- classify fashion mnsit using convolution neural networks
+			- visualizing filters
