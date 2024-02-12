@@ -22,3 +22,9 @@
 		- [Weekly Assignment](/fashion_convolution.ipynb)
 			- classify mnist dataset using CNN
 			- plus self made early stopping callback
+	- using real world images
+		-[Horses or Humans Classfication Using CNN](/horse_or_human.ipynb)
+			- download and prepare dateset using image generator
+			- train and validation set
+			- visualizing layers output of model
+			- test real images
