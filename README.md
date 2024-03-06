@@ -28,3 +28,7 @@
 			- train and validation set
 			- visualizing layers output of model
 			- test real images
+
+2. convolutional neural networks
+	- exploring a larger dataset
+		- [Cats vs. Dogs](/cats_vs_dogs.ipynb)
