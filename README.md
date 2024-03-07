@@ -32,3 +32,8 @@
 2. convolutional neural networks
 	- exploring a larger dataset
 		- [Cats vs. Dogs](/cats_vs_dogs.ipynb)
+	- augmentation a technique to avoid overfitting
+		- [Cats vs. Dogs Augmentation](/cats_vs_dogs_with_augmentation.ipynb)
+			- adding augmentation preprocesses such as rotation, width_shift, height_shift, shear, zoom, horizontal_flip
+		- [Horse or Human Augmentation](/horse_or_human_with_augmentation.ipynb)
+			- adding augmentation (however does not have impressive impact on validation accuracy)
