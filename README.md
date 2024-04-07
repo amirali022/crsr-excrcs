@@ -37,3 +37,6 @@
 			- adding augmentation preprocesses such as rotation, width_shift, height_shift, shear, zoom, horizontal_flip
 		- [Horse or Human Augmentation](/horse_or_human_with_augmentation.ipynb)
 			- adding augmentation (however does not have impressive impact on validation accuracy)
+	- transfer learning
+		- [Cats vs. Dogs Transfer Learning](/transfer_learning.ipynb)
+			- using pre-trained inception model on imagenet for cats vs dogs classification
