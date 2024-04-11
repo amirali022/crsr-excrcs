@@ -40,3 +40,6 @@
 	- transfer learning
 		- [Cats vs. Dogs Transfer Learning](/transfer_learning.ipynb)
 			- using pre-trained inception model on imagenet for cats vs dogs classification
+	- multi-class classification
+		- [Rock Paper Scissors Classification](/rock_paper_scissors_cnn.ipynb)
+			- using cnn to classify images of rps dataset
