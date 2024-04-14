@@ -43,3 +43,8 @@
 	- multi-class classification
 		- [Rock Paper Scissors Classification](/rock_paper_scissors_cnn.ipynb)
 			- using cnn to classify images of rps dataset
+
+3. natural language processing
+	- sentiment in text
+		- [Text Preprocessing](/text_processing.ipynb)
+			- work with tokenizer and pad sequences
