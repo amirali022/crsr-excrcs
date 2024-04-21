@@ -49,3 +49,7 @@
 		- [Text Preprocessing](/text_processing.ipynb)
 			- work with tokenizer and pad sequences
 			- work with sarcasm dataset
+	- word embedding
+		- [IMDB Reviews Sentiment Analysis](/imdb_reviews.ipynb)
+			- working with embedding layer
+			- visualizing embedding weights
