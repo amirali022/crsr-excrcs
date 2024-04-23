@@ -55,3 +55,7 @@
 			- visualizing embedding weights
 		- [Sarcasm Classification](/sarcasm_classifier.ipynb)
 			- binary classification problem of sarcasm detection
+		- [IMDB Reviews Classification Using Subwords](/imdb_reviews_subwords.ipynb)
+			- using imdb_reviews/subwords8k dataset
+			- comparing plaintext dataset with subwords dataset
+			- comparing texts_to_sequences/sequences_to_texts with encode/decode
