@@ -53,3 +53,5 @@
 		- [IMDB Reviews Sentiment Analysis](/imdb_reviews.ipynb)
 			- working with embedding layer
 			- visualizing embedding weights
+		- [Sarcasm Classification](/sarcasm_classifier.ipynb)
+			- binary classification problem of sarcasm detection
