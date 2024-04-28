@@ -62,3 +62,5 @@
 	- sequence models
 		- [IMDB Reviews Subwords Classification Using LSTM](/imdb_reviews_subwords_lstm.ipynb)
 			- classification using two layer bidirectional lstm network
+		- [IMDB Reviews Subwords Classification Using CNN](/imdb_reviews_subwords_cnn.ipynb)
+			- classification using Conv1D layer
