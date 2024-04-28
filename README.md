@@ -59,3 +59,6 @@
 			- using imdb_reviews/subwords8k dataset
 			- comparing plaintext dataset with subwords dataset
 			- comparing texts_to_sequences/sequences_to_texts with encode/decode
+	- sequence models
+		- [IMDB Reviews Subwords Classification Using LSTM](/imdb_reviews_subwords_lstm.ipynb)
+			- classification using two layer bidirectional lstm network
