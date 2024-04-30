@@ -64,3 +64,6 @@
 			- classification using two layer bidirectional lstm network
 		- [IMDB Reviews Subwords Classification Using CNN](/imdb_reviews_subwords_cnn.ipynb)
 			- classification using Conv1D layer
+	- sequence models and literature
+		- [Text Generation](/generate_texts.ipynb)
+			- working with Bidirectional LSTM inorder to generate text
