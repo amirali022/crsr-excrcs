@@ -74,3 +74,5 @@
 	- sequences and prediction
 		- [Time Series](/time_series.ipynb)
 			- introduction to time series
+		- [Forecast](/forecast.ipynb)
+			- forecast synthetic data using statistical methods
