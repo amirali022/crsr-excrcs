@@ -67,3 +67,10 @@
 	- sequence models and literature
 		- [Text Generation](/generate_texts.ipynb)
 			- working with Bidirectional LSTM inorder to generate text
+		- [Assignment](/Copy_of_C3W4_Assignment.ipynb)
+			- generate text
+
+4. sequences time series and prediction
+	- sequences and prediction
+		- [Time Series](/time_series.ipynb)
+			- introduction to time series
