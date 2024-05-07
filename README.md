@@ -76,3 +76,10 @@
 			- introduction to time series
 		- [Forecast](/forecast.ipynb)
 			- forecast synthetic data using statistical methods
+	- deep neural networks for time series
+		- [Time Series Data](/time_series_feature_labels.ipynb)
+			- preparing dataset of time series
+			- windowed data
+			- feature and labels
+			- batch data
+			- shuffle data
