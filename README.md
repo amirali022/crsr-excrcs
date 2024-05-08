@@ -86,3 +86,6 @@
 		- [TS Prediction Using Single Layer Neural Network](/time_series_prediction_single_layer.ipynb)
 			- prediction of synthetic data
 			- printing weights of neuron
+		- [TS Prediction Using Multi Layer Neural Netword](/time_series_prediction_multi_layer.ipynb)
+			- prediction of synthetic data
+			- tuning learning rate
