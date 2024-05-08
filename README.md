@@ -83,3 +83,6 @@
 			- feature and labels
 			- batch data
 			- shuffle data
+		- [TS Prediction Using Single Layer Neural Network](/time_series_prediction_single_layer.ipynb)
+			- prediction of synthetic data
+			- printing weights of neuron
