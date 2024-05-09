@@ -89,3 +89,6 @@
 		- [TS Prediction Using Multi Layer Neural Netword](/time_series_prediction_multi_layer.ipynb)
 			- prediction of synthetic data
 			- tuning learning rate
+		- [TS Prediction Using RNN](/time_series_prediction_rnn.ipynb)
+			- prediction of synthetic data using recurrent network
+			- tuning learning rate
