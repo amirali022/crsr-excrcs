@@ -97,3 +97,7 @@
 	- real world time series data
 		- [TS Prediction Using Convolution and LSTM](/time_series_prediction_conv_lstm.ipynb)
 			- prediction of synthetic data using convolution and lstm layers
+		- [Sunspots Prediction Using Conv1D, LSTM and DNN](/sunspots_prediction_conv_lstm_dnn.ipynb)
+			- prediction of monthly mean sunspots
+			- prediction using Conv1D, LSTM and Dense Layers
+			- tuning learning rate
